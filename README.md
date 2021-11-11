@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SantiMonto
 - 👀 I’m interested in working as a developer
-- 🌱 I’m currently learning python and java
+- 🌱 I know the basics for developing in python and java. Also I`ve developed in group a web page called TRender University, using JavaScript, Node, React and Bootstrap
 - 💞️ I’m looking to collaborate on basics projects to apply what I'm learning
 - 📫 How to reach me, here is my email smonto67@gmail.com
 
