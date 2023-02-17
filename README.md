@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SantiMonto
-- 👀 I’m interested in working as a developer
-- 🌱 I know the basics for developing in python and java. Also I`ve developed in group two web pages called TRender University and Soulweb, and actually on my own another two projects called bemastar and CirEconomy, using JavaScript, Node, React and Bootstrap
-- 💞️ I’m looking to collaborate on basics projects to apply what I have learned.
+- 👀 I’m a mechanical enginer and front end developer.
+- 🌱 Actually I´m working as a web developer in Charlie Movilidad using React.js, Javascript, HTML, CSS, Firebase and Node.js, developing a web page and a mobile app for the company. Also I`ve developed while I was studying, in group two web pages, called TRender University and Soulweb, and on my own another two projects called bemastar and CirEconomy.
+- 💞️ I’m looking to work on company where I can work and learn from other experienced developers, to improve my coding and make great developments.
 - 📫 How to reach me, here is my email smonto67@gmail.com
 
 <!---
